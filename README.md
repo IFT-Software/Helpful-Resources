@@ -11,6 +11,8 @@ Resources that was read/used by our developers.
 - [ssr] - an article about server side rendering
 - [ssr tutorial]
 
+## frontend dev resources
+- [Definitive edition of “How to Favicon in 2021”] - An article about creating favicon link tags in a modern way
 
 
 [//]: #
@@ -20,4 +22,4 @@ Resources that was read/used by our developers.
   [BIP 39 - Mnemonic code for generating deterministic keys]: <https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki>
   [ssr]: <https://www.freecodecamp.org/news/what-exactly-is-client-side-rendering-and-hows-it-different-from-server-side-rendering-bd5c786b340d/>
   [ssr tutorial]: <https://www.youtube.com/playlist?list=PLMhLdUN2ZKJ2f-QDFBP1iphsmPd81MQOO>
-
+  [Definitive edition of “How to Favicon in 2021”]: <https://medium.com/web-dev-survey-from-kyoto/favicon-nightmare-how-to-maintain-sanity-7628bfc39918>
