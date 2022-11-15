@@ -3,26 +3,26 @@ Resources that was read/used by our developers.
 
 ## Full Stack Development
 
-### Next Js
+#### Next Js
 - [NextJS Documentation] - Official documentation of NextJS 13 Beta
 
-### Redux
+#### Redux
 - [Redux - A predictable state container for JavaScript apps] - Official documentation of Redux
 - [Redux Toolkit - The official toolset for efficient Redux development] - Official decumentation of Redux Toolkit
 
-## React SSR
+#### React SSR
 - [ssr] - an article about server side rendering
 - [ssr tutorial]
 
-### Miscellaneous
+#### Miscellaneous
 - [Definitive edition of “How to Favicon in 2021”] - An article about creating favicon link tags in a modern way
 
 ## Blockchain
 
-### General
+#### General
 - [learn me a bitcoin] - A technical guide about how bitcoin & blockchain works
 
-### Wallets
+#### Wallets
 - [BIP 32 - Hierarchical Deterministic Wallets]
 - [BIP 44 - Multi-Account Hierarchy for Deterministic Wallets]
 - [BIP 39 - Mnemonic code for generating deterministic keys]
