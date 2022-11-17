@@ -8,7 +8,7 @@ Resources that was read/used by our developers.
 
 #### React
 - [React Documentation] - Official documentation of React
-- [React in 10 Hours] - An in-depth tutorial which covers Fundamentals, Hooks, Context API, React Router and Custom Hooks
+- [React in 10 Hours] - An in-depth tutorial to learn React
 - [React SSR with ExpressJS] - A tutorial for creating a server side rendered React App with ExpressJS
 
 #### NextJS
