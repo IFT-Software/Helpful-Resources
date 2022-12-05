@@ -20,6 +20,26 @@ Resources that was read/used by our developers.
 - [Using Redux with React] - A tutorial that covers how to use Redux with React Hooks
 - [Using Redux with NextJS] - An article about using Redux with NextJs in modern way
 
+#### ExpressJS
+- [ExpressJS Documentation] - Official documentation of ExpressJs
+- [Express Validator Documentation] - A validator middleware for ExpressJs
+- [Build a REST API in TypeScipt - ExpressJS and Prisma] - A tutorial that covers fundemantals of Prisma and Express
+
+#### Prisma ORM
+- [Prisma Documentation] - Official documentation of Prisma
+- [Prisma Blog] - A blog with useful tutorials
+- [Introduction] - Improving Query Performance with Indexes using Prisma: Part 1
+- [B-Tree Index] - Improving Query Performance with Indexes using Prisma: Part 2
+- [Hash Index] - Improving Query Performance with Indexes using Prisma: Part 3
+
+#### Redis
+- [Redis Documentation] - Official documentation of Redis
+- [Redis Crash Course] - A simple but effective introduction tutorial
+
+#### BullMQ
+- [BullMQ Documentation] - Official documentation of BullMQ
+- [How to create Queues using Redis and Node.js] - A quickstart tutorial to BullMQ
+
 #### Tailwind CSS
 - [Tailwind CSS Documentation] - Official documentation of Tailwind CSS
 - [Tailwind UI] - Beautiful UI components by the creators of Tailwind CSS.
@@ -53,6 +73,23 @@ Resources that was read/used by our developers.
   [Redux Toolkit - The official toolset for efficient Redux development]: <https://redux-toolkit.js.org/introduction/getting-started>
   [Using Redux with React]: <https://www.youtube.com/watch?v=9jULHSe41ls>
   [Using Redux with NextJS]: <https://blog.logrocket.com/use-redux-next-js/>
+  
+  [ExpressJS Documentation]: <https://expressjs.com/>
+  [Express Validator Documentation]: <https://express-validator.github.io/docs/>
+  [Build a REST API in TypeScipt - ExpressJS and Prisma]: <https://www.youtube.com/watch?v=PM58NEMJgMw>
+  
+  [Prisma Documentation]: <https://www.prisma.io/docs/getting-started/quickstart>
+  [Prisma Blog]: <https://www.prisma.io/blog>
+  
+  [Introduction]: <https://www.prisma.io/blog/improving-query-performance-using-indexes-1-zuLNZwBkuL>
+  [B-Tree Index]: <https://www.prisma.io/blog/improving-query-performance-using-indexes-2-MyoiJNMFTsfq>
+  [Hash Index]: <https://www.prisma.io/blog/improving-query-performance-using-indexes-3-kduk351qv1>
+  
+  [Redis Documentation]: <https://redis.io/docs/about/>
+  [Redis Crash Course]: <https://www.youtube.com/watch?v=jgpVdJB2sKQ>
+  
+  [BullMQ Documentation]: <https://docs.bullmq.io/>
+  [How to create Queues using Redis and Node.js]: <https://www.youtube.com/watch?v=b7DJEAJZsG0>
   
   [Tailwind CSS Documentation]: <https://tailwindcss.com/docs>
   [Tailwind UI]: <https://tailwindui.com/components/preview>
