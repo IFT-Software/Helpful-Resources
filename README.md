@@ -1,5 +1,5 @@
 # Helpful-Resources
-Resources that was read/used by our developers.
+Resources that were read/used by our developers.
 
 ## Full Stack Development
 
