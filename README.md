@@ -76,7 +76,7 @@ Resources that were read/used by our developers.
   
   [ExpressJS Documentation]: <https://expressjs.com/>
   [Express Validator Documentation]: <https://express-validator.github.io/docs/>
-  [Build a REST API in TypeScipt - ExpressJS and Prisma]: <https://www.youtube.com/watch?v=PM58NEMJgMw>
+  [Build a REST API in TypeScript - ExpressJS and Prisma]: <https://www.youtube.com/watch?v=PM58NEMJgMw>
   
   [Prisma Documentation]: <https://www.prisma.io/docs/getting-started/quickstart>
   [Prisma Blog]: <https://www.prisma.io/blog>
