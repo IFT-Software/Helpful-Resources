@@ -23,7 +23,7 @@ Resources that were read/used by our developers.
 #### ExpressJS
 - [ExpressJS Documentation] - Official documentation of ExpressJs
 - [Express Validator Documentation] - A validator middleware for ExpressJs
-- [Build a REST API in TypeScipt - ExpressJS and Prisma] - A tutorial that covers fundemantals of Prisma and Express
+- [Build a REST API in TypeScript - ExpressJS and Prisma] - A tutorial that covers fundemantals of Prisma and Express
 
 #### Prisma ORM
 - [Prisma Documentation] - Official documentation of Prisma
