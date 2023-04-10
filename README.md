@@ -95,7 +95,7 @@ Resources that were read/used by our developers.
   
   [Tailwind CSS Documentation]: <https://tailwindcss.com/docs>
   [Tailwind UI]: <https://tailwindui.com/components/preview>
-  [Flowbite Website]: <https://flowbite.com/>
+  [Flowbite]: <https://flowbite.com/>
   
   [What is SSR?]: <https://www.freecodecamp.org/news/what-exactly-is-client-side-rendering-and-hows-it-different-from-server-side-rendering-bd5c786b340d/>
   [Definitive edition of “How to Favicon in 2021”]: <https://medium.com/web-dev-survey-from-kyoto/favicon-nightmare-how-to-maintain-sanity-7628bfc39918>
