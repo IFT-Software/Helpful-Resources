@@ -55,7 +55,7 @@ Resources that were read/used by our developers.
 
 #### General
 - [learn me a bitcoin] - A technical guide about how bitcoin & blockchain works
-- [zeromq]
+- [Accessing Bitcoin's ZeroMQ interface]
 
 #### Wallets
 - [BIP 32 - Hierarchical Deterministic Wallets]
