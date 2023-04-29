@@ -55,6 +55,7 @@ Resources that were read/used by our developers.
 
 #### General
 - [learn me a bitcoin] - A technical guide about how bitcoin & blockchain works
+- [zeromq]
 
 #### Wallets
 - [BIP 32 - Hierarchical Deterministic Wallets]
@@ -101,6 +102,7 @@ Resources that were read/used by our developers.
   [Definitive edition of “How to Favicon in 2021”]: <https://medium.com/web-dev-survey-from-kyoto/favicon-nightmare-how-to-maintain-sanity-7628bfc39918>
   
   [learn me a bitcoin]: <https://learnmeabitcoin.com/technical/>
+  [zeromq]: <https://bitcoindev.network/accessing-bitcoins-zeromq-interface/>
   [BIP 32 - Hierarchical Deterministic Wallets]: <https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki>
   [BIP 44 - Multi-Account Hierarchy for Deterministic Wallets]: <https://github.com/bitcoin/bips/blob/master/bip-0044.mediawiki>
   [BIP 39 - Mnemonic code for generating deterministic keys]: <https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki>
